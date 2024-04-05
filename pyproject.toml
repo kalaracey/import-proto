@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "import-proto"
+version = "0.0.1"
+dependencies = [
+    "protoc-wheel-0",
+    "protobuf"
+]
+requires-python = ">=3.10"
