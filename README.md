@@ -40,3 +40,7 @@ The protocol buffer compiler will run on each import.
 
 # Known issues:
   * The protocol buffer compiler should not re-run if the protocol buffer definition files have not changed.
+
+# Development
+
+See [DEVELOPMENT.md](./DEVELOPMENT.md)
